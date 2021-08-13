@@ -1,0 +1,12 @@
+ctrl+ D = divide 올리기 기능
+shift+ D = divide 내리기 기능
+
+단축키 설정/저장
+설정 - 컨+알+해당 아이콘 클릭 - 키 입력
+저장 - preference >Hotkey > store
+alt + 마우스 왼쪽 = 들어가기
+마우스 왼쪽 = 나오기
+ctrl +마우스 왼쪽 = mask pen
+ctrl + 마우스 오른쪽 = 줌 아웃
+alt + 마우스 오른쪽 = 보는 방향 회전
+alt + 마우스 왼쪽 = 보는 방향 이동
