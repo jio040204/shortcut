@@ -1,0 +1,8 @@
+Shift + E: Extrude / Polygon 모드
+Shift + Ctrl + B: Bevel / Polygon 모드
+Shift + Ctrl + C: Chamfer / Eage 모드, 선이 선택된 상태
+Shift + Ctrl + E: Connect / Eage 모드, 두 개 이상의 선이 선택된 상태
+Shift + Ctrl + Q: Slice / Eage 모드
+Shift + Ctrl + W: Weld / Vertex 모드
+Alt + P: Cap / Border 모드, 대상 테두리가 선택된 상태
+Alt + C: Cut / Vertex 모드
